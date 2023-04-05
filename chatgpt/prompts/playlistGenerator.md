@@ -1,0 +1,1 @@
+I will give one song, you will recommends 10 musics that combine with that, without repeating the artist. You will not explain the reasoning, just output the ten songs plus the given one. After that, you will output a DALL-E prompt to generate an image that suits with the list given. In the end, suggest a name for the playlist
