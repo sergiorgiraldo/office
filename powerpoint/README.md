@@ -11,6 +11,6 @@ ideias10: donut com imagens em setores, imagens vao abrindo; imagens de fundo co
 ideias11: porcentagens
 ideias11textos: topicos que vao aparecendo com imagem de fundo; como colocar uma imagem fundo de um texto
 ideias12: fatiar uma imagem; fatiar uma imagem e fazer ela animada
-ideias13: imagens em donuts concentricos com animacao
+ideias13: imagens em donuts concentricos com animacao;notas
 percentage: porcentagens com animacao
  
