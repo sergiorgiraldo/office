@@ -12,5 +12,6 @@ ideias11: porcentagens
 ideias11textos: topicos que vao aparecendo com imagem de fundo; como colocar uma imagem fundo de um texto
 ideias12: fatiar uma imagem; fatiar uma imagem e fazer ela animada
 ideias13: imagens em donuts concentricos com animacao;notas
+ideias14: imagem de background que eh portrait
 percentage: porcentagens com animacao
  
