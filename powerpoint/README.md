@@ -13,5 +13,7 @@ ideias11textos: topicos que vao aparecendo com imagem de fundo; como colocar uma
 ideias12: fatiar uma imagem; fatiar uma imagem e fazer ela animada
 ideias13: imagens em donuts concentricos com animacao;notas
 ideias14: imagem de background que eh portrait
+ideias15: 3 topicos que arrastam para a direita; bom para itens sem muito texto
+ideias16: primeiro slide que mostra um video
 percentage: porcentagens com animacao
  
