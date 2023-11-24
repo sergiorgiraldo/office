@@ -32,4 +32,6 @@
 
 - ideias16: primeiro slide que mostra um video
 
+- ideias17: quando vc tem 4 itens numerados de um topico 
+
 - percentage: porcentagens com animacao
