@@ -34,4 +34,6 @@
 
 - ideias17: quando vc tem 4 itens numerados de um topico 
 
+- ideias18: imagem de fundo com box na frente e icone transparente na esquerda
+
 - percentage: porcentagens com animacao
